@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"toggle_hud",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"toggle_hud",
+  "parent":{
+    "name":"textbox",
+    "path":"folders/Scripts/miscellaneous/textbox.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

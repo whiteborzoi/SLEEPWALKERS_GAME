@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"resolution_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"resolution_init",
+  "parent":{
+    "name":"screen",
+    "path":"folders/Scripts/miscellaneous/screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

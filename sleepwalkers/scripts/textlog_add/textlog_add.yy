@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"textlog_add",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"textlog_add",
+  "parent":{
+    "name":"textlog",
+    "path":"folders/Scripts/miscellaneous/textlog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

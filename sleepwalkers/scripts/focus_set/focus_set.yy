@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"focus_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"focus_set",
+  "parent":{
+    "name":"focus",
+    "path":"folders/Scripts/events/character/focus.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

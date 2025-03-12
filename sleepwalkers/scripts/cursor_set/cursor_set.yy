@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cursor_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cursor_set",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

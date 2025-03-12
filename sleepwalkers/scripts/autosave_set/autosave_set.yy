@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"autosave_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"autosave_set",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"flash_screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"flash_screen",
+  "parent":{
+    "name":"screen",
+    "path":"folders/Scripts/events/screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

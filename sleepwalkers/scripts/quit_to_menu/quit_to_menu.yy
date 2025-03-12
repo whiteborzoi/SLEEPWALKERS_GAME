@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"quit_to_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"quit_to_menu",
+  "parent":{
+    "name":"quit",
+    "path":"folders/Scripts/events/quit.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

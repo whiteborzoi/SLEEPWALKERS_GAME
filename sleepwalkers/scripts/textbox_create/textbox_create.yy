@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"textbox_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"textbox_create",
+  "parent":{
+    "name":"text",
+    "path":"folders/Scripts/events/text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

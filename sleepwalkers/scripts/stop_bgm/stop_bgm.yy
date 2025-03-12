@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"stop_bgm",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"stop_bgm",
+  "parent":{
+    "name":"sound",
+    "path":"folders/Scripts/events/sound.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fade_out",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fade_out",
+  "parent":{
+    "name":"screen",
+    "path":"folders/Scripts/events/screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

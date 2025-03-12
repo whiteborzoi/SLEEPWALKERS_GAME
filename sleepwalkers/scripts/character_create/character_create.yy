@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_create",
+  "parent":{
+    "name":"creation",
+    "path":"folders/Scripts/events/character/creation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

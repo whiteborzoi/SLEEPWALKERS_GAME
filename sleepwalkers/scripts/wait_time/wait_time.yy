@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"wait_time",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wait_time",
+  "parent":{
+    "name":"time",
+    "path":"folders/Scripts/events/time.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

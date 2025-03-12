@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"textlog_clean",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"textlog_clean",
+  "parent":{
+    "name":"textlog",
+    "path":"folders/Scripts/events/textlog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

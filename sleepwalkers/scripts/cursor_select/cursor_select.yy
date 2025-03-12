@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cursor_select",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cursor_select",
+  "parent":{
+    "name":"cursor",
+    "path":"folders/Scripts/miscellaneous/cursor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hover_progress",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hover_progress",
+  "parent":{
+    "name":"hover",
+    "path":"folders/Scripts/miscellaneous/hover.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

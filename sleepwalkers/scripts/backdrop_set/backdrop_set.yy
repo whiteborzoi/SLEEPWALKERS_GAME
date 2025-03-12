@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"backdrop_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"backdrop_set",
+  "parent":{
+    "name":"backdrop",
+    "path":"folders/Scripts/events/backdrop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

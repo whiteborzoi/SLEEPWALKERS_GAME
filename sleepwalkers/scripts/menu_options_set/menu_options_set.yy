@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"menu_options_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"menu_options_set",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

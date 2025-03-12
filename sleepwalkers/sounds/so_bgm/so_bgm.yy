@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"so_bgm",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":231.92091,
+  "name":"so_bgm",
+  "parent":{
+    "name":"kevin macleod",
+    "path":"folders/Sounds/kevin macleod.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"so_bgm.mp3",
+  "type":0,
+  "volume":0.3,
+}

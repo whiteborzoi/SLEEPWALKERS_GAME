@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"particle_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"particle_create",
+  "parent":{
+    "name":"effects",
+    "path":"folders/Scripts/events/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

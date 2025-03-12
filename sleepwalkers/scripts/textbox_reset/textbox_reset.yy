@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"textbox_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"textbox_reset",
+  "parent":{
+    "name":"textbox",
+    "path":"folders/Scripts/miscellaneous/textbox.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

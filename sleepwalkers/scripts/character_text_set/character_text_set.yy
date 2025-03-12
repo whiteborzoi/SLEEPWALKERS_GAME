@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_text_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_text_set",
+  "parent":{
+    "name":"text",
+    "path":"folders/Scripts/events/text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

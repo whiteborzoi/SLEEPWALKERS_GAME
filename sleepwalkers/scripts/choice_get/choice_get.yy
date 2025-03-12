@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"choice_get",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"choice_get",
+  "parent":{
+    "name":"choice",
+    "path":"folders/Scripts/events/choice.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

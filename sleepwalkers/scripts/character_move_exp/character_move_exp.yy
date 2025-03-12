@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_move_exp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_move_exp",
+  "parent":{
+    "name":"movement",
+    "path":"folders/Scripts/events/character/movement.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

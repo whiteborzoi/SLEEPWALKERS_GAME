@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"screenshake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screenshake",
+  "parent":{
+    "name":"effects",
+    "path":"folders/Scripts/events/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

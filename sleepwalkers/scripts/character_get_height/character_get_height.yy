@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_get_height",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_get_height",
+  "parent":{
+    "name":"get",
+    "path":"folders/Scripts/events/character/get.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

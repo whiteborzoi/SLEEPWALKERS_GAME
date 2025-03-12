@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"so_select2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.345306,
+  "name":"so_select2",
+  "parent":{
+    "name":"epic stock media",
+    "path":"folders/Sounds/epic stock media.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"so_select2.wav",
+  "type":0,
+  "volume":1.0,
+}

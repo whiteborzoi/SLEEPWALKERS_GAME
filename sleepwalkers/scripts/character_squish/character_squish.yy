@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_squish",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_squish",
+  "parent":{
+    "name":"effects",
+    "path":"folders/Scripts/events/character/effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

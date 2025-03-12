@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_flip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_flip",
+  "parent":{
+    "name":"change",
+    "path":"folders/Scripts/events/character/change.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
